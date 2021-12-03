@@ -18,7 +18,7 @@ HUNGER DRAIN - 130%
 
 BALOON DAMAGE - 1
 
-My friend Slash (a Wes main) request it, and I know about the bug of Wes disappearing... 
+My friend Slash (a Wes main) request it. I know about the bug of Wes disappearing... 
 
 The mod is on Steam (https://steamcommunity.com/sharedfiles/filedetails/?id=2671357993) just click on "SUBSCRIBE"
 
