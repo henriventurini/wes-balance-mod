@@ -22,4 +22,4 @@ My friend Slash (a Wes main) request it. I know about the bug of Wes disappearin
 
 The mod is on Steam (https://steamcommunity.com/sharedfiles/filedetails/?id=2671357993) just click on "SUBSCRIBE"
 
-Credits to Dream State: https://steamcommunity.com/id/SebXIII
+Credits to Dream State for the old Wes balance mod: https://steamcommunity.com/id/SebXIII
